@@ -1,0 +1,14 @@
+/Users/graymcl/Documents/Fall2023Repos/221Lab2/obj/Debug/net7.0/221Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/graymcl/Documents/Fall2023Repos/221Lab2/obj/Debug/net7.0/221Lab2.AssemblyInfoInputs.cache
+/Users/graymcl/Documents/Fall2023Repos/221Lab2/obj/Debug/net7.0/221Lab2.AssemblyInfo.cs
+/Users/graymcl/Documents/Fall2023Repos/221Lab2/obj/Debug/net7.0/221Lab2.csproj.CoreCompileInputs.cache
+/Users/graymcl/Documents/Fall2023Repos/221Lab2/bin/Debug/net7.0/221Lab2
+/Users/graymcl/Documents/Fall2023Repos/221Lab2/bin/Debug/net7.0/221Lab2.deps.json
+/Users/graymcl/Documents/Fall2023Repos/221Lab2/bin/Debug/net7.0/221Lab2.runtimeconfig.json
+/Users/graymcl/Documents/Fall2023Repos/221Lab2/bin/Debug/net7.0/221Lab2.dll
+/Users/graymcl/Documents/Fall2023Repos/221Lab2/bin/Debug/net7.0/221Lab2.pdb
+/Users/graymcl/Documents/Fall2023Repos/221Lab2/obj/Debug/net7.0/221Lab2.dll
+/Users/graymcl/Documents/Fall2023Repos/221Lab2/obj/Debug/net7.0/refint/221Lab2.dll
+/Users/graymcl/Documents/Fall2023Repos/221Lab2/obj/Debug/net7.0/221Lab2.pdb
+/Users/graymcl/Documents/Fall2023Repos/221Lab2/obj/Debug/net7.0/221Lab2.genruntimeconfig.cache
+/Users/graymcl/Documents/Fall2023Repos/221Lab2/obj/Debug/net7.0/ref/221Lab2.dll
